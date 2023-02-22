@@ -1,11 +1,6 @@
-## My Project
+## SageMaker Inference Recommender Examples
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+A curated set of examples around Inference Recommender with real-world and advanced hosting use-cases utilizing SageMaker Inference Recommender.
 
 ## Security
 
